@@ -1,0 +1,20 @@
+/* FarmSetupConsultancy.css */
+.text-primary {
+  color: #a27055;
+}
+
+.bg-primary {
+  background-color: #a27055;
+}
+
+.bg-secondary {
+  background-color: #106f26;
+}
+
+.hover:scale-110 {
+  transform: scale(1.1);
+}
+
+button:hover {
+  background-color: #106f26;
+}
